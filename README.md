@@ -1,4 +1,4 @@
-# Embed A Selected Pen 222
+# Embed A Selected Pen
 
 ## Instructions
 
